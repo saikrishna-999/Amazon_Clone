@@ -1,0 +1,46 @@
+<i class="fa-regular fa-heart"></i>
+
+
+<div class="bottom-panel">
+            <div class="details">
+               <p class="info"> Get to Know Us</p>
+                <div class="get-to">
+                    <p>Careers</p>
+                    <p>Blog</p>
+                    <p>About Amazon</p>
+                    <p>Investor Releations</p>
+                    <p>Amazon Devices</p>
+                    <p>Amazon Services</p>
+                </div>
+            </div>
+            <div >
+               <p class="info">Make money with Us</p> 
+                <div class="get-to">
+                    <p>Sell products on Amazon</p>
+                    <p>Sell on Amazon Bussiness</p>
+                    <p>Sell apps on Amazon</p>
+                    <p> Become an Affiliate</p>
+                    <p>Advertise your products </p>
+                    <p>Host an Amazon Hub</p>
+                </div>
+            </div>
+            <div>
+               <p class="info"> Let Us Help You</p>
+                <div class="get-to">   
+                <p>COVID-19 and Amazon</p>
+                <p>Your Account</p>
+                <p>Returns Centre</p>
+                <p>100% Purchase Protection</p>
+               <p> Amazon App Download</p>
+               <p> Help</p>
+                </div>
+            </div>
+            <div>
+                <p class="info">Connect with Us</p>
+                <div class="get-to">
+                    	<p>Facebook</p>
+                        <p>Instagram</p>
+                        <p>X</p>
+                </div>
+            </div>
+        </div>
